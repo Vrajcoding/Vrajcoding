@@ -53,7 +53,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 </div>
 
-## 🔥 GitHub Streak
+<!-- ## 🔥 GitHub Streak
 
 <div align="center">
   
@@ -77,23 +77,21 @@ I'm a passionate developer who loves building innovative solutions and contribut
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrajCoding&repo=WanderLust&theme=tokyonight" />
 </a>
 
-<!-- Add more projects here when ready -->
-<!-- 
+Add more projects here when ready 
 <a href="https://github.com/vrajCoding/YOUR_REPO_NAME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrajCoding&repo=YOUR_REPO_NAME&theme=tokyonight" />
 </a>
--->
 
-</div>
+</div> -->
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vraj-gajjar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajgajjar37)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrajCoding)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrajgajjar11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vrajgajjar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://vrajgajjar.dev](https://vrajgajjarportfolio.netlify.app/))
 
 </div>
 
