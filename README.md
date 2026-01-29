@@ -1,6 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Vraj Gajjar</h1>
-  <h3>MERN Stack Developer | Building Scalable Web Applications</h3>
+  <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Mern+Stack+Developer;Full+scalable+App" alt="Typing SVG" /></a>
+  </div>
 </div>
 
 <div align="center">
