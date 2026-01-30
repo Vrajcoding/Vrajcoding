@@ -10,7 +10,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrajgajjar37)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vrajgajjarportfolio.netlify.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrajgajjar11@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vrajcoding/)
   
 </div>
 
@@ -100,8 +100,7 @@ I'm a **B.Sc. IT student** (CGPA: 8.25) passionate about building full-stack app
 
 ## 💻 Competitive Programming
 
-- 🎯 **LeetCode:** 75+ problems solved ([Profile](link))
-- 🏆 **Contest Ratings:** [Add if applicable]
+- 🎯 **LeetCode:** 75+ problems solved ([Profile](https://leetcode.com/u/vrajcoding/))
 - 📈 **Focus Areas:** Arrays, Strings, Trees, Dynamic Programming
 
 ---
